@@ -1,0 +1,256 @@
+{
+  "continents": [
+    {
+      "id": "1",
+      "name": "america-do-norte",
+      "title": "América do Norte",
+      "image": "https://images.unsplash.com/photo-1516141535911-e3b982713e61?auto=format&fit=crop&q=80&w=870&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano.",
+      "quantities": {
+        "countries": 37,
+        "languages": 256,
+        "cities": 28
+      },
+      "countries": [
+        {
+          "name": "Canadá",
+          "city": "Toronto",
+          "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/10/2f/e4/toronto.jpg?w=700&h=500&s=1",
+          "flag": "https://s3.static.brasilescola.uol.com.br/be/2022/10/bandeira-do-canada.jpg"
+        },
+        {
+          "name": "Estados Unidos",
+          "city": "Nova Iorque",
+          "image": "https://s4.static.brasilescola.uol.com.br/be/2021/07/torre-eiffel.jpg",
+          "flag": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/05/bandeira-estados-unidos.jpg"
+        },
+        {
+          "name": "México",
+          "city": "Cancún",
+          "image": "https://www.excellenceclub.com.br/site/images/jkit/items/38-big.jpg",
+          "flag": "https://images.tcdn.com.br/img/img_prod/695394/bandeira_mexico_0_90x1_28m_1009_1_e1d6eaddb6735132a0718281bc3c493b.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "america-do-sul",
+      "title": "América do Sul",
+      "image": "https://images.unsplash.com/photo-1545832063-74f2d924b61a?auto=format&fit=crop&q=80&w=870&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A América do Sul é um continente que compreende a porção meridional da América. Também é considerada um subcontinente do continente americano. A sua extensão é de 17 819 100 km², abrangendo 12% da superfície terrestre e 6% da população mundial.",
+      "quantities": {
+        "countries": 12,
+        "languages": 456,
+        "cities": 36
+      },
+      "countries": [
+        {
+          "name": "Argentina",
+          "city": "Buenos Aires",
+          "image": "https://aguiarbuenosaires.com/wp-content/uploads/2015/10/Obelisco-Mapa-de-Buenos-Aires-Foto-Wikipedia2.jpg",
+          "flag": "https://static.significados.com.br/foto/argentina.jpg"
+        },
+        {
+          "name": "Bolívia",
+          "city": "Sucre",
+          "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/48/3a/d4/topo.jpg?w=700&h=500&s=1",
+          "flag": "https://i.pinimg.com/originals/c0/3d/a9/c03da97824ea0bd1774553120a03e0f2.png"
+        },
+        {
+          "name": "Brasil",
+          "city": "Porto Alegre",
+          "image": "https://prefeitura.poa.br/sites/default/files/usu_img/projetos/gp/Conhe%C3%A7a%20Porto%20Alegre/180124_Eduardo%20Beleke%20-%202.jpg",
+          "flag": "https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg"
+        },
+        {
+          "name": "Chile",
+          "city": "Santiago",
+          "image": "https://viagemeturismo.abril.com.br/wp-content/uploads/2016/10/santiago-despejado4.jpeg?quality=90&strip=info&w=800&w=636",
+          "flag": "https://static.todamateria.com.br/upload/ba/nd/bandeiradochile-cke.jpg"
+        },
+        {
+          "name": "Colômbia",
+          "city": "Bogotá",
+          "image": "https://www.civitatis.com/blog/wp-content/uploads/2022/10/panoramica-plaza-bolivar-bogota.jpg",
+          "flag": "https://m.media-amazon.com/images/I/31T7gPQx2pL._AC_UF1000,1000_QL80_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "asia",
+      "title": "Ásia",
+      "image": "https://plus.unsplash.com/premium_photo-1673002094123-d5f3017fe032?auto=format&fit=crop&q=80&w=870&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial.",
+      "quantities": {
+        "countries": 50,
+        "languages": 2300,
+        "cities": 34
+      },
+      "countries": [
+        {
+          "name": "Arábia Saudita",
+          "city": "Riad",
+          "image": "https://pics.uncubus.tech/images/16736/upload/cea5f1c6db6ef465b19b9c4615b4cf08.jpg",
+          "flag": "https://s3.static.brasilescola.uol.com.br/be/2022/10/bandeira-arabia-saudita1.jpg"
+        },
+        {
+          "name": "Afeganistão",
+          "city": "Kabul",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Modern_Kabul_-_panoramio.jpg/800px-Modern_Kabul_-_panoramio.jpg",
+          "flag": "https://s1.static.brasilescola.uol.com.br/be/2021/06/bandeira-do-afeganistao.jpg"
+        },
+        {
+          "name": "China",
+          "city": "Xangai",
+          "image": "https://s2.glbimg.com/_af7-VXOwUy-Ri8J9H4CIXKwLDU=/620x430/e.glbimg.com/og/ed/f/original/2022/04/03/road-trip-with-raj-py8eyah9j3a-unsplash.jpg",
+          "flag": "https://static.significados.com.br/foto/china.jpg"
+        },
+        {
+          "name": "Coreia do Norte",
+          "city": "Rason",
+          "image": "https://res.cloudinary.com/korea-konsult-ab/image/upload/c_limit,f_auto,q_auto,w_800,dpr_auto/rason/b2.jpg",
+          "flag": "https://img.freepik.com/vetores-premium/bandeira-coreia-do-norte_628407-670.jpg"
+        },
+        {
+          "name": "Filipinas",
+          "city": "Cebu",
+          "image": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/129000/129074-Cebu-Island.jpg",
+          "flag": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/04/bandeira-filipinas.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "africa",
+      "title": "África",
+      "image": "https://images.unsplash.com/photo-1553775927-a071d5a6a39a?auto=format&fit=crop&q=80&w=1087&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A África é o terceiro continente mais extenso com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta. É o segundo continente mais populoso da Terra com cerca de um bilhão de pessoas, representando cerca de um sétimo da população mundial, e 54 países independentes.",
+      "quantities": {
+        "countries": 54,
+        "languages": 2000,
+        "cities": 50
+      },
+      "countries": [
+        {
+          "name": "África do Sul",
+          "city": "Cidade do Cabo",
+          "image": "https://blog.maxmilhas.com.br/wp-content/uploads/2020/09/kyle-cut-media-hzR9rDXWbqo-unsplash-scaled-e1600288451188-770x450.jpg",
+          "flag": "https://geo5.net/imagens/Bandeira-da-Africa-do-Sul.png"
+        },
+        {
+          "name": "Benin",
+          "city": "Planalto",
+          "image": "https://www.infoescola.com/wp-content/uploads/2017/03/chapada-dos-veadeiros-392298664.jpg",
+          "flag": "https://media.istockphoto.com/id/1422539102/pt/vetorial/the-national-flag-of-the-world-benin.jpg?s=612x612&w=0&k=20&c=dUguGCHFfFQm658TYPNPJfNjzWpMJ0SMcpjfSfbcSh8="
+        },
+        {
+          "name": "Costa do Marfim",
+          "city": "Daloa",
+          "image": "https://bercodomundo.com/wp-content/uploads/2021/11/notre-dame-de-la-paix-2-570x450.jpg",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/langpt-800px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png"
+        },
+        {
+          "name": "Egito",
+          "city": "Luxor",
+          "image": "https://www.egito.com/f/egipto/egipto/guia/luxor-m.jpg",
+          "flag": "https://media.istockphoto.com/id/472216325/pt/foto/bandeira-do-egipto.jpg?s=612x612&w=0&k=20&c=sCW7X3hIU6WXFJyqHyfbtv3b28lO_Bl9XcH-OJedOjs="
+        },
+        {
+          "name": "Guinea",
+          "city": "Pita",
+          "image": "https://i0.wp.com/www.thesierraleonetelegraph.com/wp-content/uploads/2017/05/Conakry-Guinea-1-e1495833729989.jpg?fit=450%2C301&ssl=1",
+          "flag": "https://lh3.googleusercontent.com/ci/ALr3YSHcPK96ZRQEnwRVorpFaF_vKNQoito7QeLlxSx-jXtxHAABXgoW8QHeeHITlY58RH6LphjTjQs"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "europa",
+      "title": "Europa",
+      "image": "https://images.unsplash.com/photo-1491557345352-5929e343eb89?auto=format&fit=crop&q=80&w=1170&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+      "quantities": {
+        "countries": 50,
+        "languages": 24,
+        "cities": 55
+      },
+      "countries": [
+        {
+          "name": "Armênia",
+          "city": "Everã",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mount_Ararat_and_the_Yerevan_skyline.jpg",
+          "flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPrJU7rQpa1LS7-gpzhKyYIa2PhBeNCs46xA&usqp=CAU"
+        },
+        {
+          "name": "Bélgica",
+          "city": "Bruges",
+          "image": "https://eurotrip.com.br/wp-content/uploads/2021/01/cidade-bruges-belgica.jpg",
+          "flag": "https://s4.static.brasilescola.uol.com.br/be/2022/11/bandeira-da-belgica.jpg"
+        },
+        {
+          "name": "Bulgária",
+          "city": "Sófia",
+          "image": "https://existeumlugarnomundo.com.br/wp-content/uploads/2023/03/sofia-centro.jpg",
+          "flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYvrZfMFMaU8tEDYo3DYB9OHpKGtM8bTlDeg&usqp=CAU"
+        },
+        {
+          "name": "Espanha",
+          "city": "Madrid",
+          "image": "https://www.tudosobremadrid.com/f/espana/madrid/guia/madrid-m.jpg",
+          "flag": "https://static.vecteezy.com/ti/vetor-gratis/p3/8070285-espanha-bandeira-icone-em-cor-oficial-e-proporcao-corretamente-gratis-vetor.jpg"
+        },
+        {
+          "name": "França",
+          "city": "Paris",
+          "image": "https://i0.wp.com/turismo.eurodicas.com.br/wp-content/uploads/2023/06/roteiro-paris.jpeg?fit=750%2C500&ssl=1",
+          "flag": "https://img.freepik.com/fotos-premium/bandeira-da-franca_469558-3949.jpg"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "oceania",
+      "title": "Oceania",
+      "image": "https://images.unsplash.com/photo-1588001400947-6385aef4ab0e?auto=format&fit=crop&q=80&w=1074&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Oceania é um continente localizado entre os oceanos Índico e Pacífico, formado por 14 países insulares e diversos territórios ultramarinos.",
+      "quantities": {
+        "countries": 14,
+        "languages": 1470,
+        "cities": 20
+      },
+      "countries": [
+        {
+          "name": "Austrália",
+          "city": "Gold Coast",
+          "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/5e/5f/e2/photo4jpg.jpg?w=700&h=500&s=1",
+          "flag": "https://static.vecteezy.com/ti/vetor-gratis/p3/4313583-bandeira-do-pais-australia-gratis-vetor.jpg"
+        },
+        {
+          "name": "Ilhas Marshall",
+          "city": "Majuro",
+          "image": "https://mediaim.expedia.com/destination/1/ff817a8f597612176804452fb16c30ed.jpg",
+          "flag": "https://img.freepik.com/fotos-premium/bandeira-das-ilhas-marshall_406939-4542.jpg"
+        },
+        {
+          "name": "Nauru",
+          "city": "Yaren",
+          "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/75/8f/7d/yaren.jpg?w=500&h=300&s=1",
+          "flag": "https://img.freepik.com/vetores-premium/bandeira-de-nauru_628407-644.jpg"
+        },
+        {
+          "name": "Nova Zelândia",
+          "city": "Wellington",
+          "image": "https://novazelandiabrasil.com.br/wp-content/uploads/sites/3/2022/08/L164_MASTER.jpg",
+          "flag": "https://s2.glbimg.com/X42wsCFnGbUTJcjJHyiPFDbyhPA=/696x390/top/smart/s.glbimg.com/jo/g1/f/original/2015/09/02/bandeira_da_nova_zelandia.jpeg"
+        },
+        {
+          "name": "Samoa",
+          "city": "Apia",
+          "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/62/df/3a/immaculate-conception.jpg?w=600&h=400&s=1",
+          "flag": "https://s1.static.brasilescola.uol.com.br/be/e/samoa.jpg"
+        }
+      ]
+    }
+  ]
+}
